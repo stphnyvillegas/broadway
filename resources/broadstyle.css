@@ -1,0 +1,55 @@
+html {
+	text-align: center;
+	font-size: Helvetica;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	font-family: Helvetica;
+}
+
+li {
+	list-style: none;
+	font-size: 18px;
+	color: white;
+
+}
+
+
+
+a {
+	font-size: 18px;
+	color: white;
+}
+
+.header {
+	background-image: url("./media/building.png");
+
+}
+
+.process {
+	font-family: Helvetica;
+}
+
+.bottom {
+	background-image: url("./media/building.png");
+	color: white;
+	font-size: 23px;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+.info {
+	font-family: Helvetica;
+	
+}
+
+.footer {
+	font-size: 11px;
+	font-family: Helvetica;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
+}
